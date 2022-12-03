@@ -31,4 +31,4 @@ foreach(string allCaloriePerElf in perElf)
 
 Elf max = allElfs.MaxBy(elf => elf.SumCalories);
 
-Console.WriteLine("a");
+Console.WriteLine();
