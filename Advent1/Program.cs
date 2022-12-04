@@ -1,4 +1,5 @@
-﻿using Advent1.model;
+﻿//https://adventofcode.com/2022/day/1
+using Advent1.model;
 
 string inutFileName = "calories.txt";
 
