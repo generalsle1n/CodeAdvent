@@ -1,12 +1,1 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Advent3
-{
-    internal class Program
-    {
-    }
-}
+﻿string input = "input.txt";
