@@ -1,4 +1,4 @@
-﻿//https://adventofcode.com/2022/day/4
+﻿//https://adventofcode.com/2022/day/3
 using Advent3.model;
 using static Advent3.model.Rucksack;
 
