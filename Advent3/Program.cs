@@ -1,4 +1,5 @@
-﻿using Advent3.model;
+﻿//https://adventofcode.com/2022/day/4
+using Advent3.model;
 using static Advent3.model.Rucksack;
 
 string input = "input.txt";
