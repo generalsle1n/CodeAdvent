@@ -23,7 +23,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2024", "2024", "{DF922128-7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2024 - Advent1", "2024\2024 - Advent1\2024 - Advent1.csproj", "{F233C24E-77BE-43F2-8527-CF6557FED609}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2024 - Advent2", "2024\2024 - Advent2\2024 - Advent2\2024 - Advent2.csproj", "{5093F834-21D7-4F23-8D08-CA826BA8AFAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2024 - Advent2", "2024\2024 - Advent2\2024 - Advent2.csproj", "{5093F834-21D7-4F23-8D08-CA826BA8AFAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
